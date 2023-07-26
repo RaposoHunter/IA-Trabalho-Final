@@ -1,0 +1,3 @@
+# Fase 3
+
+Aqui realizamos os testes 5 vezes por modelo de rede. O código é muito similar ao da fase 2, estando representado no *script* <code>main.py</code>. Também é possível encontrar o resultado das 5 testagens dos modelos de rede individualmente nos arquivos CSV. O arquivo <code>resultados.xlsx</code> contém cada um destes arquivos, além das 10 redes selecionadas que possuem as maiores acurácias.
